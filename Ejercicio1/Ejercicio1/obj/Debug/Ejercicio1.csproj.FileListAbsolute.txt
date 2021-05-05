@@ -1,0 +1,10 @@
+C:\Users\cb272\Desktop\clases\tercer ciclo\Programacion 1\EjerciciosDeGrupos\Grupo1\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe.config
+C:\Users\cb272\Desktop\clases\tercer ciclo\Programacion 1\EjerciciosDeGrupos\Grupo1\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe
+C:\Users\cb272\Desktop\clases\tercer ciclo\Programacion 1\EjerciciosDeGrupos\Grupo1\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.pdb
+C:\Users\cb272\Desktop\clases\tercer ciclo\Programacion 1\EjerciciosDeGrupos\Grupo1\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csprojAssemblyReference.cache
+C:\Users\cb272\Desktop\clases\tercer ciclo\Programacion 1\EjerciciosDeGrupos\Grupo1\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.Form1.resources
+C:\Users\cb272\Desktop\clases\tercer ciclo\Programacion 1\EjerciciosDeGrupos\Grupo1\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.Properties.Resources.resources
+C:\Users\cb272\Desktop\clases\tercer ciclo\Programacion 1\EjerciciosDeGrupos\Grupo1\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csproj.GenerateResource.cache
+C:\Users\cb272\Desktop\clases\tercer ciclo\Programacion 1\EjerciciosDeGrupos\Grupo1\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\cb272\Desktop\clases\tercer ciclo\Programacion 1\EjerciciosDeGrupos\Grupo1\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.exe
+C:\Users\cb272\Desktop\clases\tercer ciclo\Programacion 1\EjerciciosDeGrupos\Grupo1\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.pdb
